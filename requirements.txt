@@ -1,0 +1,6 @@
+pandasai[connectors]
+psycopg2
+sqlalchemy
+sqlalchemy_schemadisplay
+streamlit
+opencv-python
