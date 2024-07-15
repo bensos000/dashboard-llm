@@ -1,5 +1,5 @@
 # Description
-This is a simple dashboard analysis using a chat with your database for any llm.
+This is a simple dashboard analysis using a chat with your database with any llm.
 
 # Installation
 ```
